@@ -457,7 +457,7 @@ input[type="radio"]{
     height: 130px;
     width: 130px;
     margin-bottom: 14px;
-    background: #298cf7;
+    background: #2e3946;
     padding: 3px;
     border-radius: 50%;
 }
@@ -466,7 +466,7 @@ input[type="radio"]{
     width: 100%;
     object-fit: cover;
     border-radius: 50%;
-    background: #298cf7;
+    background: #2e3946;
     border: 3px solid white;
 }
 .card-slide .content .image img:hover{
@@ -484,7 +484,7 @@ input[type="radio"]{
 .card-slide .content .img-media-icons a{
     height: 35px;
     width: 35px;
-    background: #298cf7;
+    background: #2e3946;
     border-radius: 50%;
     display: flex;
     border: 2px solid transparent;
@@ -496,8 +496,8 @@ input[type="radio"]{
     color: #fff;
 }
 .content .img-media-icons a:hover{
-    border-color: #298cf7;
-    color: #298cf7;
+    border-color: #2e3946;
+    color: #2e3946;
     background: white;
 }
 .button{
