@@ -327,7 +327,7 @@ body {
     margin: 0 0 100px 0;
     padding: 7px 12px;
     border-radius: 500px;
-    color: #298cf7;
+    color: #2e3946;
     font-weight: 700;
     background-color: white;
     border: none;
@@ -457,7 +457,7 @@ input[type="radio"]{
     height: 130px;
     width: 130px;
     margin-bottom: 14px;
-    background: #298cf7;
+    background: #2e3946;
     padding: 3px;
     border-radius: 50%;
 }
@@ -466,7 +466,7 @@ input[type="radio"]{
     width: 100%;
     object-fit: cover;
     border-radius: 50%;
-    background: #298cf7;
+    background: #2e3946;
     border: 3px solid white;
 }
 .card-slide .content .image img:hover{
@@ -484,7 +484,7 @@ input[type="radio"]{
 .card-slide .content .img-media-icons a{
     height: 35px;
     width: 35px;
-    background: #298cf7;
+    background: #2e3946;
     border-radius: 50%;
     display: flex;
     border: 2px solid transparent;
@@ -496,8 +496,8 @@ input[type="radio"]{
     color: #fff;
 }
 .content .img-media-icons a:hover{
-    border-color: #298cf7;
-    color: #298cf7;
+    border-color: #2e3946;
+    color: #2e3946;
     background: white;
 }
 .button{
@@ -655,19 +655,19 @@ input[type="radio"]{
 .read-more-button {
     margin-left: 120px;
     text-decoration: none;
-    color: #298cf7;
+    color: #2e3946;
     background-color: #fff;
     font-weight: bold;
     transition: all 0.3s ease;
     border-radius: 20px;
     padding: 2px 5px;
     text-align: center;
-    border: 2px solid #298cf7;
+    border: 2px solid #2e3946;
 }
 .read-more-button:hover {
-    background-color: #298cf7;
+    background-color: #2e3946;
     color: #fff;
-    border-color: #298cf7;
+    border-color: #2e3946;
 }
 
 .genre-page hr{
@@ -919,7 +919,7 @@ footer{
     font-size: 4rem;
     margin-bottom: 40px;
     line-height: normal;
-    background-image: linear-gradient(to right, grey 30%,rgb(199,199,199,0.4),85%,grey 100%);
+    background-image: linear-gradient(to right, grey 30%,rgb(241, 241, 241),85%,grey 100%);
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
