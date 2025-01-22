@@ -334,7 +334,7 @@ body {
     transition: all 0.4s;
 }
 .genre-container .genre-slide-content button:hover{
-    background-color: #298cf7;
+    background-color: #2e3946;
     color: white;
 }
 .genre-slide:hover .genre-slide-content {
